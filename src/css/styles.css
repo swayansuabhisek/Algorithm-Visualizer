@@ -34,7 +34,7 @@ nav .logo {
      font-size: 27px;
      font-weight: 600;
      line-height: 70px;
-     padding-left: 60px;
+     padding-left: 630px;
 }
 
 nav .logo span {
@@ -125,7 +125,8 @@ nav ul ul ul li {
      }
 
      nav .logo {
-          padding-left: 30px;
+          padding-left: 100px;
+          
           width: 100%;
      }
 
